@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="mailto:fahadm2498@gmail.com">Email</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+  <a href="https://github.com/Fahad-wizz">GitHub</a> •
+  <a href="https://linkedin.com/in/Fahad-wizz">LinkedIn</a>
 </p>
 
 🚀 I build production-ready backend systems and intelligent applications  
@@ -33,35 +33,56 @@ Scikit-learn, Pandas, Streamlit
 
 ## 🚀 Featured Projects
 
-### 🔐 AI-Based Intrusion Detection System
-- Built a distributed IDS using ML + Flask
-- Real-time packet analysis & anomaly detection
-- Solved major data pipeline inconsistencies
+---
 
-🔗 [Live Demo](#) | [GitHub Repo](#)
+### 🛡️ AI-Based Intrusion Detection System (Distributed)
+> Real-time network threat detection using ML with a distributed architecture
+
+- 🚀 Built a **hybrid ML pipeline (Isolation Forest + Classifier)** for anomaly detection  
+- 🌐 Designed **agent-server architecture** with cloud-based inference (Render deployment)  
+- 📊 Implemented **packet-to-flow feature engineering** for accurate detection  
+- ⚙️ Solved critical issues like **feature mismatch, NaN errors, and scaling inconsistencies**  
+- 📡 Real-time dashboard with dynamic visualization & polling system  
+
+**Tech Stack:** Flask, Python, Scikit-learn, Pandas, JavaScript, Render  
+
+🔗 [Live Demo](#) | 🔗 [GitHub Repo](#)
 
 ---
 
-### ❤️ Heart Disease Prediction App
-- ML model with full preprocessing pipeline
-- Streamlit-based UI for real-time predictions
-- Applied feature engineering + scaling
+### 📋 Team Task Manager (Full-Stack Productivity App)
+> Scalable task management system with secure backend and optimized workflows
 
-🔗 [Live Demo](#) | [GitHub Repo](#)
+- 🔐 Implemented **authentication & authorization (JWT-based)**  
+- ⚙️ Designed **modular backend architecture** with middleware & API security  
+- 📦 Built RESTful APIs for **task CRUD operations & team collaboration**  
+- 🚀 Optimized performance with **rate limiting, logging, and error handling**  
+- 🌍 Integrated frontend + backend with production-ready structure  
+
+**Tech Stack:** Node.js, Express.js, MongoDB, React, JWT, Docker  
+
+🔗 [Live Demo](#) | 🔗 [GitHub Repo](#)
 
 ---
 
-### 🎮 Tournament Hosting Platform (In Progress)
-- Scalable backend for managing competitions
-- Future vision: AI-driven engagement system
+### ❤️ Heart Disease Prediction App (ML + Deployment)
+> End-to-end ML application for real-time health risk prediction
 
-🔗 [GitHub Repo](#)
+- 🤖 Trained ML model with **feature engineering + one-hot encoding pipeline**  
+- 📊 Applied **StandardScaler & preprocessing consistency for accurate predictions**  
+- 🖥️ Built interactive UI using **Streamlit for real-time inference**  
+- 🧠 Debugged critical issues like **input mismatch & model integration errors**  
+- 📦 Packaged model using **joblib for deployment-ready pipeline**  
+
+**Tech Stack:** Python, Scikit-learn, Pandas, Streamlit  
+
+🔗 [Live Demo](#) | 🔗 [GitHub Repo](#)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahad-wizz&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahad-wizz&theme=radical" />
 </p>
 
 ## 🧠 What I'm Currently Working On

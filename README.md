@@ -96,12 +96,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Fahad-wizz&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahad-wizz&theme=radical" />
 </p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fahad-wizz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🧠 What I'm Currently Working On
 
 - Advanced Backend System Design  
 - Scaling AI Applications  
 - Preparing for SDE roles (8–12+ LPA target)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🤝 Let's Connect
 

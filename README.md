@@ -13,23 +13,31 @@
 
 ## 🛠️ Tech Stack
 
-💻 **Languages**  
-JavaScript, Python  
+### 💻 Core
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 
-⚙️ **Backend**  
-Node.js, Express.js, REST APIs  
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/-REST%20API-black?style=for-the-badge)
 
-🗄️ **Database**  
-MongoDB, MySQL  
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
-🌐 **Frontend**  
-React.js, Next.js  
+### 🌐 Frontend
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 
-☁️ **Tools & Cloud**  
-Git, Docker, AWS (Basics), Postman  
+### 🤖 AI / ML
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-black?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)
 
-🤖 **AI/ML**  
-Scikit-learn, Pandas, Streamlit
+### ☁️ Tools
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)
 
 ## 🚀 Featured Projects
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Moinuddin Fahad</h1>
-<h3 align="center">Backend Developer | AI Enthusiast | Building Scalable Systems</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Building Scalable Systems</h3>
 
 <p align="center">
   <a href="mailto:fahadm2498@gmail.com">Email</a> •
@@ -58,7 +58,7 @@
 
 **Tech Stack:** Flask, Python, Scikit-learn, Pandas, JavaScript, Render  
 
-🔗 [Live Demo](#) | 🔗 [GitHub Repo](#)
+🔗 [Live Demo](https://realtime-anomaly-detection.onrender.com/) | 🔗 [GitHub Repo](https://github.com/Fahad-wizz/RealTime-Anomaly-Detection)
 
 ---
 
@@ -73,7 +73,7 @@
 
 **Tech Stack:** Node.js, Express.js, MongoDB, React, JWT, Docker  
 
-🔗 [Live Demo](#) | 🔗 [GitHub Repo](#)
+🔗 [Live Demo](https://teamtaskmanager-production-8f12.up.railway.app/) | 🔗 [GitHub Repo](https://github.com/Fahad-wizz/TeamTaskManager)
 
 ---
 

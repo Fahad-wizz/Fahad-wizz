@@ -14,10 +14,12 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Core Languages
+![Java](https://img.shields.io/badge/Java-0D1217?style=for-the-badge&logo=javascript&logoColor=F7FF1E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### ⚙️ Backend Development
+![Springboot](https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=white)
